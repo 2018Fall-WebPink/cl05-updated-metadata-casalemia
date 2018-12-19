@@ -1,0 +1,27 @@
+/*
+*Mia Casale 
+* Due Date 
+*Project Name and Description
+*/
+
+/* The Universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { font-family: Arial,Helevetica, sans-serif;  
+background-color:indianred;
+    color: black;
+    }
+<h1> {
+    font-size: 150%;
+    text-align: center
+    text-decoration: overline underline; }
+    #applecake{ width: 250px; height 00px;}
+header{ background-color:navajowhite}
+    main {background-color: dimgrey;}
+footer {background-color: skyblue;}
+#applecake{float: right;}
